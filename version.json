@@ -1,7 +1,7 @@
 {
   "version": "2.8.0",
   "download_url": "https://github.com/BIBALYON/GHOST-UPDATES/releases/download/v2.8.0/GHOST_APP.exe",
-  "sha256": "",
+  "sha256": "8B50ECB7841E735E1B38DFAC41A812E66C01B34EA41DDF06BB150296E4F06B28",
   "mandatory": false,
   "release_notes": "Version initiale du système de mise à jour GitHub."
 }
