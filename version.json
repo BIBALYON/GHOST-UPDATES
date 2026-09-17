@@ -1,7 +1,7 @@
 {
-  "version": "2.8.1",
-  "download_url": "https://github.com/BIBALYON/GHOST-UPDATES/releases/download/v2.8.1/GHOST_APP.exe",
-  "sha256": "8B50ECB7841E735E1B38DFAC41A812E66C01B34EA41DDF06BB150296E4F06B28",
+  "version": "2.8.2",
+  "download_url": "https://github.com/BIBALYON/GHOST-UPDATES/releases/download/v2.8.2/GHOST_APP.exe",
+  "sha256": "A06024928D31A46F0BD3DD17BFB573B4D619F89FFF0FC09C920EAEBFDA7E12AC",
   "mandatory": false,
-  "release_notes": "Version de test du système de mise à jour automatique GHOST."
+  "release_notes": "Version 2.8.2 de GHOST — mise à jour et système d'auto-update."
 }
