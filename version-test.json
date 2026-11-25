@@ -1,0 +1,7 @@
+{
+  "version": "2.10.1",
+  "installer_url": "https://github.com/BIBALYON/GHOST-UPDATES/releases/download/v2.10.1-test/GHOST_Setup_TEST_v2.10.1.exe",
+  "installer_sha256": "015153AC68032C7B3EF2FDD0C9ED8D192F9E045D23CB6379D2BD279A7C355FCD",
+  "mandatory": false,
+  "release_notes": "GHOST TEST 2.10.1 — version de référence. Canal TEST réservé aux validations de mise à jour Inno Setup."
+}
